@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Anas Ben Ibrahim 👋</h1>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Microservices+%26+REST+APIs;DevOps+Enthusiast+%7C+Docker+%C2%B7+Jenkins;Open+to+PFE+internship" /></p>
 <h3 align="center">Software Engineering Student @ ESPRIT · Backend Developer · DevOps Enthusiast</h3>
 
 <p align="center">
@@ -17,28 +18,12 @@
 
 ## Tech stack
 
-**Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,python,postgres,redis,nodejs,express&perline=7" /></a><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,angular,tailwind,flutter,dart&perline=7" /></a><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,jenkins,prometheus,grafana,git,github,linux&perline=7" /></a><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,unity,cs,cpp,idea,vscode,postman&perline=7" /></a>
+</p>
 
 ## Featured projects
 
