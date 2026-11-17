@@ -29,10 +29,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | **SmartSupport** *(private)* | Customer-support platform: microservices, AI analysis, Jenkins CI/CD and Prometheus/Grafana monitoring | Spring Boot · React · Python · Docker · Jenkins · Grafana |
-| **DevOps-ProductApp** *(private)* | Product & order management microservices with API Gateway, Eureka and Docker Compose | Java 17 · Spring Boot 3 · Docker |
 | [**CV Management**](https://github.com/anasbenibrahim/CV-management) | Microservices app for the CV lifecycle with CV–mission matching (TF-IDF) | Spring Boot · Spring Cloud · JWT |
-| [**Bank Account App**](https://github.com/anasbenibrahim/Bank_Account_App) | Banking microservices with Eureka, API Gateway and Config Server | Spring Boot · Spring Cloud |
-| [**PIM Angular App**](https://github.com/anasbenibrahim/pim_angular_app) | Web front-end of the PIM platform | Angular · TypeScript |
+| **Netpulse** *(private)* | IoT network monitoring platform: firmware, MQTT, AI module, web frontend and Jenkins CI | C++ · MQTT · Python · Jenkins |
 | [**Portfolio**](https://benibrahimanas.netlify.app/) | Personal portfolio website | Next.js · React · TypeScript |
 
 ## Experience
