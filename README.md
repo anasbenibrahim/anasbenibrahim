@@ -20,21 +20,20 @@
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,python,postgres,redis,nodejs,express&perline=7" /></a><br/><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,angular,tailwind,flutter,dart&perline=7" /></a><br/><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,jenkins,prometheus,grafana,git,github,linux&perline=7" /></a><br/><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,unity,cs,cpp,idea,vscode,postman&perline=7" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,angular,tailwind&perline=5" /></a><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,jenkins,prometheus,grafana,git,github,linux&perline=7" /></a>
 </p>
 
 ## Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**PIM Spring Backend**](https://github.com/anasbenibrahim/pim_spring_app) | Secure backend with JWT auth, OTP email verification and role-based access | Spring Boot · PostgreSQL · Redis |
-| [**PIM Flutter App**](https://github.com/anasbenibrahim/pim_flutter_app) | Mobile app with role-based registration, OTP and BLoC architecture | Flutter · Dart · BLoC |
-| [**PIM Angular App**](https://github.com/anasbenibrahim/pim_angular_app) | Web front-end of the PIM platform | Angular · TypeScript |
+| **SmartSupport** *(private)* | Customer-support platform: microservices, AI analysis, Jenkins CI/CD and Prometheus/Grafana monitoring | Spring Boot · React · Python · Docker · Jenkins · Grafana |
+| **DevOps-ProductApp** *(private)* | Product & order management microservices with API Gateway, Eureka and Docker Compose | Java 17 · Spring Boot 3 · Docker |
 | [**CV Management**](https://github.com/anasbenibrahim/CV-management) | Microservices app for the CV lifecycle with CV–mission matching (TF-IDF) | Spring Boot · Spring Cloud · JWT |
-| [**Bank Account App**](https://github.com/anasbenibrahim/Bank_Account_App) | Banking microservices with Eureka, Gateway and Config Server | Spring Boot · Spring Cloud |
-| **SmartSupport** *(private)* | Customer-support platform: microservices, AI analysis, CI/CD and monitoring | Spring · React · Python · Jenkins · Grafana |
+| [**Bank Account App**](https://github.com/anasbenibrahim/Bank_Account_App) | Banking microservices with Eureka, API Gateway and Config Server | Spring Boot · Spring Cloud |
+| [**PIM Angular App**](https://github.com/anasbenibrahim/pim_angular_app) | Web front-end of the PIM platform | Angular · TypeScript |
+| [**Portfolio**](https://benibrahimanas.netlify.app/) | Personal portfolio website | Next.js · React · TypeScript |
 
 ## Experience
 
